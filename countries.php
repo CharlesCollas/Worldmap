@@ -1,18 +1,3 @@
-<!--
-
-Prints a world map generated with the jquery plugin jvectormap and information contained in a database when clicking on a country
-http://jvectormap.com/
-
-You need to include a css jvectormap file, the jquery file, and 2 js jvectormap files
-See the tutorial here http://jvectormap.com/tutorials/getting-started/
-
-For more information, check the documentation here http://jvectormap.com/documentation/
-
-I also included the twitter bootstrap css file for the pretty table class table-hover
-See more documentation about this file here http://getbootstrap.com/
-
--->
-
 <div id="world-map" style="width: 940px; height: 600px;"></div>
 <div id="countries-infos"></div>
 <script>
