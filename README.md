@@ -1,6 +1,6 @@
 # Worldmap
 
-Prints a world map generated with the jquery plugin jvectormap and information contained in a database when clicking on a country.
+Prints a world map generated with the jQuery plugin Jvectormap and information contained in a database when clicking on a country.
 
 ## Installation
 
